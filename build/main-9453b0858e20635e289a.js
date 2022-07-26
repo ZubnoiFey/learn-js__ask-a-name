@@ -1,0 +1,1 @@
+(()=>{const o=prompt("What is your name?");console.log(`Your name is ${o}`)})();
